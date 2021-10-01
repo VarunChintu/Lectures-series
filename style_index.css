@@ -1,0 +1,32 @@
+.card{
+	width: 80%;
+	margin: auto;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	margin-bottom: 1rem;
+}
+
+body{
+	background-color: mintcream;
+}
+h1{
+	font-size: 3rem;
+	font-weight: bold;
+
+}
+.header{
+	color: darkblue;
+	text-align: center;
+	background-color: aquamarine;
+}
+h4{
+	font-weight: bold;
+}
+.card-title{
+	width: 40%;
+	margin: 0px;
+}
+.card-button{
+	width: 40%;
+	margin: 0px;
+	float: top rigth;
+}
